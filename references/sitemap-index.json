@@ -1,0 +1,872 @@
+[
+ {
+  "url": "https://help.hhtiming.com/whats-new/archive",
+  "slug": "whats-new__archive",
+  "title": "Archive",
+  "chars": 853
+ },
+ {
+  "url": "https://help.hhtiming.com/whats-new/2024-february",
+  "slug": "whats-new__2024-february",
+  "title": "2024 February Release",
+  "chars": 3624
+ },
+ {
+  "url": "https://help.hhtiming.com/whats-new/2025-june",
+  "slug": "whats-new__2025-june",
+  "title": "2025 June Release",
+  "chars": 4937
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/assumed-pace/",
+  "slug": "calculation-definitions__assumed-pace",
+  "title": "Assumed pace",
+  "chars": 2716
+ },
+ {
+  "url": "https://help.hhtiming.com/",
+  "slug": "index",
+  "title": "Help",
+  "chars": 436
+ },
+ {
+  "url": "https://help.hhtiming.com/whats-new/2025-april",
+  "slug": "whats-new__2025-april",
+  "title": "2025 April Release",
+  "chars": 4792
+ },
+ {
+  "url": "https://help.hhtiming.com/whats-new/2023-november",
+  "slug": "whats-new__2023-november",
+  "title": "2023 November Release",
+  "chars": 7525
+ },
+ {
+  "url": "https://help.hhtiming.com/whats-new",
+  "slug": "whats-new",
+  "title": "Blog",
+  "chars": 5597
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/predicted-stint-length/",
+  "slug": "calculation-definitions__predicted-stint-length",
+  "title": "Predicted stint length",
+  "chars": 4939
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/fixed-stint-length/",
+  "slug": "calculation-definitions__fixed-stint-length",
+  "title": "Fixed stint length",
+  "chars": 5000
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/degradation/",
+  "slug": "calculation-definitions__degradation",
+  "title": "Degradation",
+  "chars": 3133
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/pit-stop-length/",
+  "slug": "calculation-definitions__pit-stop-length",
+  "title": "Pit stop length",
+  "chars": 3182
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/IMSA-safety-car-wave-by/",
+  "slug": "calculation-definitions__IMSA-safety-car-wave-by",
+  "title": "IMSA Safety car wave-by",
+  "chars": 3325
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/driving-time/",
+  "slug": "calculation-definitions__driving-time",
+  "title": "Driving time",
+  "chars": 5874
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/race-finish-calculation/",
+  "slug": "calculation-definitions__race-finish-calculation",
+  "title": "Race finish calculation",
+  "chars": 5658
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/projected-lap-time/",
+  "slug": "calculation-definitions__projected-lap-time",
+  "title": "Projected lap time",
+  "chars": 4350
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/yellow-flag-laps/",
+  "slug": "calculation-definitions__yellow-flag-laps",
+  "title": "Yellow flag laps",
+  "chars": 2647
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/",
+  "slug": "displays",
+  "title": "Displays",
+  "chars": 2299
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/connection-status/",
+  "slug": "displays__connection-status",
+  "title": "Connection Status",
+  "chars": 3114
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/clocks/",
+  "slug": "displays__clocks",
+  "title": "Clocks",
+  "chars": 7466
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/filtering-displays/",
+  "slug": "displays__filtering-displays",
+  "title": "Filtering displays",
+  "chars": 3937
+ },
+ {
+  "url": "https://help.hhtiming.com/calculation-definitions/sanitized-average-lap-time/",
+  "slug": "calculation-definitions__sanitized-average-lap-time",
+  "title": "Sanitized average lap time",
+  "chars": 2595
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/graphing/gap-graph/",
+  "slug": "displays__graphing__gap-graph",
+  "title": "Gap Graph",
+  "chars": 7298
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/car-off-track/",
+  "slug": "displays__car-off-track",
+  "title": "Car off track",
+  "chars": 4676
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/graphing/raising-average/",
+  "slug": "displays__graphing__raising-average",
+  "title": "Raising Average",
+  "chars": 3132
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/graphing/gps-speed/",
+  "slug": "displays__graphing__gps-speed",
+  "title": "GPS Speed",
+  "chars": 9884
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/graphing/scatter/",
+  "slug": "displays__graphing__scatter",
+  "title": "Scatter",
+  "chars": 3846
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/pit-lights/",
+  "slug": "displays__pit-lights",
+  "title": "Pit Light Display",
+  "chars": 2950
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/race-control-messages/",
+  "slug": "displays__race-control-messages",
+  "title": "Race Control Messages",
+  "chars": 5314
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/overviews/",
+  "slug": "displays__overviews",
+  "title": "Overviews",
+  "chars": 7588
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/",
+  "slug": "displays__scoreboards",
+  "title": "Scoreboards",
+  "chars": 6511
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/best-sector-scoreboard/",
+  "slug": "displays__scoreboards__best-sector-scoreboard",
+  "title": "Best sector scoreboard",
+  "chars": 4123
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/car-scoreboard/",
+  "slug": "displays__scoreboards__car-scoreboard",
+  "title": "Car scoreboard",
+  "chars": 8126
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/championship-point-scoreboard/",
+  "slug": "displays__scoreboards__championship-point-scoreboard",
+  "title": "Championship point scoreboard",
+  "chars": 5200
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/crossing-order-scoreboard/",
+  "slug": "displays__scoreboards__crossing-order-scoreboard",
+  "title": "Crossing order scoreboard",
+  "chars": 3803
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/driver-scoreboard/",
+  "slug": "displays__scoreboards__driver-scoreboard",
+  "title": "Driver scoreboard",
+  "chars": 3916
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/lap-chart-scoreboard/",
+  "slug": "displays__scoreboards__lap-chart-scoreboard",
+  "title": "Lap chart scoreboard",
+  "chars": 3721
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/live-crossing-order-scoreboard/",
+  "slug": "displays__scoreboards__live-crossing-order-scoreboard",
+  "title": "Live crossing order scoreboard",
+  "chars": 5441
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/lap-analysis-scoreboard/",
+  "slug": "displays__scoreboards__lap-analysis-scoreboard",
+  "title": "Lap analysis scoreboard",
+  "chars": 5100
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/main-scoreboard/",
+  "slug": "displays__scoreboards__main-scoreboard",
+  "title": "Main scoreboard",
+  "chars": 5366
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/pit-stop-scoreboard/",
+  "slug": "displays__scoreboards__pit-stop-scoreboard",
+  "title": "Pit stop scoreboard",
+  "chars": 4341
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/multi-session-scoreboard/",
+  "slug": "displays__scoreboards__multi-session-scoreboard",
+  "title": "Multi-session scoreboard",
+  "chars": 3926
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-maps/",
+  "slug": "displays__track-maps",
+  "title": "Track maps",
+  "chars": 4950
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-gap-display/",
+  "slug": "displays__track-gap-display",
+  "title": "Track gap display",
+  "chars": 2857
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-maps/circle-track/",
+  "slug": "displays__track-maps__circle-track",
+  "title": "Circle track map",
+  "chars": 3647
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/scoreboards/yellow-flag-scoreboard/",
+  "slug": "displays__scoreboards__yellow-flag-scoreboard",
+  "title": "Yellow flag scoreboard",
+  "chars": 3708
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-limits-warning/",
+  "slug": "displays__track-limits-warning",
+  "title": "Track Limits Warning",
+  "chars": 4458
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-maps/full-track/",
+  "slug": "displays__track-maps__full-track",
+  "title": "Full track map",
+  "chars": 10705
+ },
+ {
+  "url": "https://help.hhtiming.com/excel-exports/live-excel-export/",
+  "slug": "excel-exports__live-excel-export",
+  "title": "Live excel export",
+  "chars": 5637
+ },
+ {
+  "url": "https://help.hhtiming.com/displays/track-maps/gap-track/",
+  "slug": "displays__track-maps__gap-track",
+  "title": "Gap track map",
+  "chars": 6811
+ },
+ {
+  "url": "https://help.hhtiming.com/excel-exports/scoreboard-live-excel-export/",
+  "slug": "excel-exports__scoreboard-live-excel-export",
+  "title": "Scoreboard live excel export",
+  "chars": 3577
+ },
+ {
+  "url": "https://help.hhtiming.com/FAQ/how-do-i/",
+  "slug": "FAQ__how-do-i",
+  "title": "How do I?",
+  "chars": 3210
+ },
+ {
+  "url": "https://help.hhtiming.com/FAQ/",
+  "slug": "FAQ",
+  "title": "FAQ",
+  "chars": 3476
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/project-tree/",
+  "slug": "getting-started__project-tree",
+  "title": "Project Tree",
+  "chars": 2372
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/installation/",
+  "slug": "getting-started__installation",
+  "title": "Installing and running HH Timing",
+  "chars": 2740
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/project-tree/components/",
+  "slug": "getting-started__project-tree__components",
+  "title": "Components",
+  "chars": 4404
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/projects/",
+  "slug": "getting-started__projects",
+  "title": "Projects",
+  "chars": 3662
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/project-tree/data/",
+  "slug": "getting-started__project-tree__data",
+  "title": "Data",
+  "chars": 2920
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/",
+  "slug": "getting-started__ribbon-bar",
+  "title": "Ribbon bar",
+  "chars": 2258
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/projects/creating-new-project/",
+  "slug": "getting-started__projects__creating-new-project",
+  "title": "Creating a new project",
+  "chars": 2252
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/project-tree/displays/",
+  "slug": "getting-started__project-tree__displays",
+  "title": "Displays",
+  "chars": 3296
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/components/",
+  "slug": "getting-started__ribbon-bar__components",
+  "title": "Components",
+  "chars": 3356
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/displays/",
+  "slug": "getting-started__ribbon-bar__displays",
+  "title": "Displays",
+  "chars": 2455
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/data/",
+  "slug": "getting-started__ribbon-bar__data",
+  "title": "Data",
+  "chars": 4778
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/layout/",
+  "slug": "getting-started__ribbon-bar__layout",
+  "title": "Layout",
+  "chars": 2441
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/reports/",
+  "slug": "getting-started__ribbon-bar__reports",
+  "title": "Reports",
+  "chars": 2435
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/website/access/",
+  "slug": "getting-started__website__access",
+  "title": "Access",
+  "chars": 3074
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/ribbon-bar/file/",
+  "slug": "getting-started__ribbon-bar__file",
+  "title": "File",
+  "chars": 3308
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/website/users/",
+  "slug": "getting-started__website__users",
+  "title": "Users",
+  "chars": 3842
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/website/versions-license/",
+  "slug": "getting-started__website__versions-license",
+  "title": "Versions & license",
+  "chars": 3462
+ },
+ {
+  "url": "https://help.hhtiming.com/getting-started/workspace/",
+  "slug": "getting-started__workspace",
+  "title": "Workspace",
+  "chars": 2455
+ },
+ {
+  "url": "https://help.hhtiming.com/notes/imsa-2026-replays/",
+  "slug": "notes__imsa-2026-replays",
+  "title": "IMSA 2026 replays",
+  "chars": 4026
+ },
+ {
+  "url": "https://help.hhtiming.com/notes/v0-9-plugin-updates/",
+  "slug": "notes__v0-9-plugin-updates",
+  "title": "v0.9 plugin updates",
+  "chars": 4005
+ },
+ {
+  "url": "https://help.hhtiming.com/reporting/",
+  "slug": "reporting",
+  "title": "Reporting",
+  "chars": 2348
+ },
+ {
+  "url": "https://help.hhtiming.com/reporting/making-reports/",
+  "slug": "reporting__making-reports",
+  "title": "Making reports",
+  "chars": 7733
+ },
+ {
+  "url": "https://help.hhtiming.com/plugins/making-your-own-plugin/",
+  "slug": "plugins__making-your-own-plugin",
+  "title": "Making your own plugin",
+  "chars": 7210
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/adac-gt-masters/",
+  "slug": "series-specific-info__adac-gt-masters",
+  "title": "ADAC Gt Masters",
+  "chars": 4220
+ },
+ {
+  "url": "https://help.hhtiming.com/reporting/viewing-reports/",
+  "slug": "reporting__viewing-reports",
+  "title": "Viewing reports",
+  "chars": 2425
+ },
+ {
+  "url": "https://help.hhtiming.com/plugins/drive-time-plugin/",
+  "slug": "plugins__drive-time-plugin",
+  "title": "Drive time plugin",
+  "chars": 21334
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/creventic/",
+  "slug": "series-specific-info__creventic",
+  "title": "Creventic 24H Series",
+  "chars": 5201
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/asian-le-mans-series/",
+  "slug": "series-specific-info__asian-le-mans-series",
+  "title": "Asian le mans series",
+  "chars": 9362
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/dtm/",
+  "slug": "series-specific-info__dtm",
+  "title": "DTM",
+  "chars": 4759
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/ewc/",
+  "slug": "series-specific-info__ewc",
+  "title": "EWC",
+  "chars": 4517
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/gt-open/",
+  "slug": "series-specific-info__gt-open",
+  "title": "GT Open",
+  "chars": 3740
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/formulae/",
+  "slug": "series-specific-info__formulae",
+  "title": "FormulaE",
+  "chars": 5624
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/f2-f3/",
+  "slug": "series-specific-info__f2-f3",
+  "title": "FIA Formula 2 / Formula 3",
+  "chars": 6096
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/indycar/recommended-settings/",
+  "slug": "series-specific-info__indycar__recommended-settings",
+  "title": "Recommended Settings",
+  "chars": 5854
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/gtwc-europe/",
+  "slug": "series-specific-info__gtwc-europe",
+  "title": "GTWC Europe",
+  "chars": 5676
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/igtc/",
+  "slug": "series-specific-info__igtc",
+  "title": "IGTC",
+  "chars": 41323
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/MotoGP/",
+  "slug": "series-specific-info__MotoGP",
+  "title": "MotoGP",
+  "chars": 3201
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/indycar/",
+  "slug": "series-specific-info__indycar",
+  "title": "Indycar",
+  "chars": 17585
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/imsa/",
+  "slug": "series-specific-info__imsa",
+  "title": "IMSA",
+  "chars": 13235
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/macau/",
+  "slug": "series-specific-info__macau",
+  "title": "FIA GT World Cup Macau - 2026",
+  "chars": 4435
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/iracing/",
+  "slug": "series-specific-info__iracing",
+  "title": "iRacing",
+  "chars": 5215
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/lm24/",
+  "slug": "series-specific-info__lm24",
+  "title": "Le Mans 24 Hours",
+  "chars": 12430
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/nascar/",
+  "slug": "series-specific-info__nascar",
+  "title": "NASCAR",
+  "chars": 3676
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/nbr24-2023/",
+  "slug": "series-specific-info__nbr24-2023",
+  "title": "N24 2023",
+  "chars": 5730
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/nls-nbr24/",
+  "slug": "series-specific-info__nls-nbr24",
+  "title": "NLS & N24",
+  "chars": 11436
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/sro-america/",
+  "slug": "series-specific-info__sro-america",
+  "title": "SRO America",
+  "chars": 7628
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/porsche-sprint-challenge-na-usw/",
+  "slug": "series-specific-info__porsche-sprint-challenge-na-usw",
+  "title": "Porsche Sprint Challenge North America and US West",
+  "chars": 5054
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/rfactor2/",
+  "slug": "series-specific-info__rfactor2",
+  "title": "rFactor 2",
+  "chars": 4509
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/supercars/",
+  "slug": "series-specific-info__supercars",
+  "title": "Supercars",
+  "chars": 8833
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/supergt-super-formula/",
+  "slug": "series-specific-info__supergt-super-formula",
+  "title": "Super GT & Super Formula",
+  "chars": 4428
+ },
+ {
+  "url": "https://help.hhtiming.com/series-specific-info/wec-elms/",
+  "slug": "series-specific-info__wec-elms",
+  "title": "WEC & ELMS",
+  "chars": 11273
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/backstage-options/",
+  "slug": "settings-options__backstage-options",
+  "title": "Backstage options",
+  "chars": 14340
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/backstage-settings/",
+  "slug": "settings-options__backstage-settings",
+  "title": "Backstage settings",
+  "chars": 2574
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/backstage-settings/auto-report-log/",
+  "slug": "settings-options__backstage-settings__auto-report-log",
+  "title": "Auto report logs",
+  "chars": 1998
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/car-options/",
+  "slug": "settings-options__car-options",
+  "title": "Car options",
+  "chars": 3208
+ },
+ {
+  "url": "https://help.hhtiming.com/support/email/",
+  "slug": "support__email",
+  "title": "Email",
+  "chars": 1767
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/championship-configuration/",
+  "slug": "settings-options__championship-configuration",
+  "title": "Championship configuration",
+  "chars": 6451
+ },
+ {
+  "url": "https://help.hhtiming.com/support/paying-credit-card/",
+  "slug": "support__paying-credit-card",
+  "title": "Paying with credit card",
+  "chars": 2102
+ },
+ {
+  "url": "https://help.hhtiming.com/settings-options/track-item-ghosts/",
+  "slug": "settings-options__track-item-ghosts",
+  "title": "Track item / Track Map / Ghosts",
+  "chars": 13954
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/aklamel-standard/",
+  "slug": "timekeeper-specific-info__aklamel-standard",
+  "title": "Alkamel standard",
+  "chars": 2804
+ },
+ {
+  "url": "https://help.hhtiming.com/support/sending-project/",
+  "slug": "support__sending-project",
+  "title": "Sending an HH Timing project",
+  "chars": 2343
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/Cronococa/",
+  "slug": "timekeeper-specific-info__Cronococa",
+  "title": "Cronococa Enhanced RMon Timing",
+  "chars": 2507
+ },
+ {
+  "url": "https://help.hhtiming.com/support/sending-logs/",
+  "slug": "support__sending-logs",
+  "title": "Sending log files",
+  "chars": 2227
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/alkamel-v2/",
+  "slug": "timekeeper-specific-info__alkamel-v2",
+  "title": "Alkamel V2",
+  "chars": 12857
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/MyLaps-X2/",
+  "slug": "timekeeper-specific-info__MyLaps-X2",
+  "title": "MyLaps X2 Server",
+  "chars": 5948
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/MyLaps-SpeedHive/",
+  "slug": "timekeeper-specific-info__MyLaps-SpeedHive",
+  "title": "MyLaps HTML Scraping - Speedhive",
+  "chars": 3499
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/its-chrono/",
+  "slug": "timekeeper-specific-info__its-chrono",
+  "title": "ITS Chrono",
+  "chars": 5123
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/perugia-timing/",
+  "slug": "timekeeper-specific-info__perugia-timing",
+  "title": "Perugia Timing",
+  "chars": 3173
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/natsoft/",
+  "slug": "timekeeper-specific-info__natsoft",
+  "title": "Natsoft",
+  "chars": 4690
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/time-service/",
+  "slug": "timekeeper-specific-info__time-service",
+  "title": "Time service",
+  "chars": 4708
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/tsl-timing/",
+  "slug": "timekeeper-specific-info__tsl-timing",
+  "title": "TSL Timing",
+  "chars": 3914
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/swiss-timing/",
+  "slug": "timekeeper-specific-info__swiss-timing",
+  "title": "Swiss timing",
+  "chars": 17710
+ },
+ {
+  "url": "https://help.hhtiming.com/timekeeper-specific-info/usac/",
+  "slug": "timekeeper-specific-info__usac",
+  "title": "USAC Timing",
+  "chars": 5325
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/hh-timing-server-mode/",
+  "slug": "timing-data-management__hh-timing-server-mode",
+  "title": "HH timing server mode",
+  "chars": 4841
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/remote-replays-database/",
+  "slug": "timing-data-management__remote-replays-database",
+  "title": "Remote replays database",
+  "chars": 3992
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/export-session/",
+  "slug": "timing-data-management__export-session",
+  "title": "Export session",
+  "chars": 6375
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/live-timing-feed-connection/",
+  "slug": "timing-data-management__live-timing-feed-connection",
+  "title": "Live timing feed connection",
+  "chars": 4694
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/replays/",
+  "slug": "timing-data-management__replays",
+  "title": "Replays",
+  "chars": 4935
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/session-data-recovery/",
+  "slug": "timing-data-management__session-data-recovery",
+  "title": "Session data recovery",
+  "chars": 2666
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/",
+  "slug": "tips_tricks",
+  "title": "Tips & tricks",
+  "chars": 2836
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/session-data/",
+  "slug": "timing-data-management__session-data",
+  "title": "Session data",
+  "chars": 3615
+ },
+ {
+  "url": "https://help.hhtiming.com/timing-data-management/timing-scoring-data-import/",
+  "slug": "timing-data-management__timing-scoring-data-import",
+  "title": "Timing and scoring data import",
+  "chars": 3696
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/copy-loops-list/",
+  "slug": "tips_tricks__copy-loops-list",
+  "title": "Get loops list",
+  "chars": 2013
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/router-configuration/",
+  "slug": "tips_tricks__router-configuration",
+  "title": "Router configuration",
+  "chars": 3344
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/backing-up-hh-timing-projects/",
+  "slug": "tips_tricks__backing-up-hh-timing-projects",
+  "title": "Backing up HH Timing projects",
+  "chars": 3197
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/saving-screen-space/",
+  "slug": "tips_tricks__saving-screen-space",
+  "title": "Saving screen space",
+  "chars": 2455
+ },
+ {
+  "url": "https://help.hhtiming.com/videos/getting-started/",
+  "slug": "videos__getting-started",
+  "title": "Gettign started",
+  "chars": 1364
+ },
+ {
+  "url": "https://help.hhtiming.com/videos/layouts/",
+  "slug": "videos__layouts",
+  "title": "Working with layouts",
+  "chars": 1374
+ },
+ {
+  "url": "https://help.hhtiming.com/tips_tricks/switching-project/",
+  "slug": "tips_tricks__switching-project",
+  "title": "Switching project",
+  "chars": 3483
+ },
+ {
+  "url": "https://help.hhtiming.com/workbooks-layouts/layouts/",
+  "slug": "workbooks-layouts__layouts",
+  "title": "Layouts",
+  "chars": 5040
+ },
+ {
+  "url": "https://help.hhtiming.com/workbooks-layouts/",
+  "slug": "workbooks-layouts",
+  "title": "Workbooks & layouts",
+  "chars": 1838
+ },
+ {
+  "url": "https://help.hhtiming.com/workbooks-layouts/workbooks/",
+  "slug": "workbooks-layouts__workbooks",
+  "title": "Workbooks",
+  "chars": 2602
+ }
+]
